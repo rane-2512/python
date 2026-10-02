@@ -1,0 +1,12 @@
+a=2
+b=5
+sum=a+b
+print(sum)
+diff=b-a
+print(diff)
+multi=a*b
+print(multi)
+divide=b/a
+print(divide)
+mod=a%b
+print(mod)
