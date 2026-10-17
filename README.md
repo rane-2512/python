@@ -23,16 +23,8 @@ This repository contains the Python programs and coding problems I solve daily a
 - Lists and Tuples
 - Dictionaries and Sets
 - Basic Problem Solving
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms (DSA)
 
 *More topics will be added as I continue learning.*
-
-## 🛠️ Technologies Used
-
-- **Language:** Python 🐍
-- **Editor:** Visual Studio Code
-- **Platform:** GitHub
 
 
 ## 📅 Daily Progress
