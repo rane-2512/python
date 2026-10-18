@@ -1,0 +1,7 @@
+# Define the function
+def greet_user(username):
+    return f"Welcome back, {username}!"
+
+# Call the function
+message = greet_user("Alice")
+print(message)
