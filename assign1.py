@@ -1,3 +1,4 @@
+#valid anagram
 def anagram(n1,n2):
     freq=[0]*10
     while (n1!=0):
