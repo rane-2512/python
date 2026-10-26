@@ -1,3 +1,5 @@
+# Count the vowels in a text file
+
 vowels="aeiouAEIOU"
 count=0
 
