@@ -1,3 +1,4 @@
+```python
 a=2
 b=5
 sum=a+b
@@ -9,4 +10,5 @@ print(multi)
 divide=b/a
 print(divide)
 mod=a%b
-print(mod)
+print(mod)  # Performs addition, subtraction, multiplication, division, and modulus
+```
