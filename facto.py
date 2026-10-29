@@ -1,7 +1,7 @@
 n = 5
-fact = 1
+fac = 1
 
 for i in range(1, n + 1):
-    fact = fact * i
+    fac = fac * i
 
-print(fact)
+print(fac)
